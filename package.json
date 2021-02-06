@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "one7-utils": "^0.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "name": "checker-credi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "one": "node app/server.js",
+    "one7": "nodemon app/server.js"
+  },
+  "repository": "git+https://github.com/zardx7/checker-credi.git",
+  "keywords": [],
+  "author": "zardx7 <revoltcenter@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zardx7/checker-credi/issues"
+  },
+  "homepage": "https://github.com/zardx7/checker-credi#readme",
+  "description": ""
+}
